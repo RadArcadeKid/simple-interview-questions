@@ -1,6 +1,8 @@
 # RecruitersLookHere
-Hi recruiter or future employer! 
-This is a repository full of various small-scale code snippets and projects, mostly serving as a showcase of my coding abilities on basic interview questions common in the software development industry*. All of this is **my own code** by design, please note the use of readable code, efficiency, industry-standard commenting, and proper design practices. 
+Hello recruiter or future employer! 
+
+
+This is a repository full of various small-scale code snippets and projects, mostly serving as a showcase of my coding abilities on basic interview questions common in the software development industry*. All of this is **my own code** by design, please note the use of readable code, efficiency, industry-standard commenting, and proper design practices.
 
 These projects are primarily in:
   - C++
