@@ -11,4 +11,4 @@ While these are my two primary languages, working some solutions in both serve a
 
 
 
-* *These are generic interview questions. Any and all questions/projects showcased here is not knowingly taken from any specific company or set of interview questions.*
+*\*These are generic interview questions. Any and all questions/projects showcased here is not knowingly taken from any specific company or set of interview questions.*
