@@ -12,6 +12,8 @@
 
 #fizzbuzz takes in number of iterationsn and will print
 #multiples of 3 with fizz and multiples of 5 with buzz, or both
+# TIME COMPLEXITY - O(n)
+
 def fizzbuzz(niters):
   for i in range(niters):
     #instantiating an output variable makes for better code

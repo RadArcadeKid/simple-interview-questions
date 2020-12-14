@@ -15,7 +15,9 @@
 using namespace std; //for simplicities sake
 
 /*
- * fizzbuzz - when called, will run number of iterations provided
+ * fizzbuzz - when called, will print the game of fizzbuzz
+ * with niter, the number of iterations provided
+ * TIME COMPLEXITY - O(n)
  */
 void fizzbuzz(int niters){
   for(int i = 0; i < niters; i++){
