@@ -1,5 +1,5 @@
 /*
-  * WRITTEN BY JAKE HENSON
+  * WRITTEN BY JACKIE HENSON, 2020
   * Written in C++
   *
   * fizzbuzz - a program that runs the classic game "fizbuzz"
@@ -16,11 +16,11 @@ using namespace std; //for simplicities sake
 
 /*
  * fizzbuzz - when called, will print the game of fizzbuzz
- * with niter, the number of iterations provided
+ * arugments: numIterations, the number of iterations provided
  * TIME COMPLEXITY - O(n)
  */
-void fizzbuzz(int niters){
-  for(int i = 0; i < niters; i++){
+void fizzbuzz(int numIterations){
+  for(int i = 0; i < numIterations; i++){
     if(i%3 == 0){ cout << "fizz"; }
     if(i%5 == 0){ cout << "buzz"; }
     else if (i%3 != 0 && i%5 != 0){
@@ -30,6 +30,9 @@ void fizzbuzz(int niters){
   }
 }
 
+/*
+* main
+*/
 int main(){
   fizzbuzz(100);
   exit(0);
