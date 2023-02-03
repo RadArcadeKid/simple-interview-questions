@@ -1,9 +1,8 @@
 #First X digit Fibbonacci number program 
 #Jackie Henson
 
-#When given an input, this function will find the first integer in the fibonacci sequence that has X digits 
-#(e.g., if the function takes in 2, it will retrun 13, because 13 is the first 2-digit number in the Fibbonacci sequence)
-
+#firstX_digit_Fib - When given an input, this function will find the first integer in the fibonacci sequence that has X digits 
+#(e.g., if the function takes in 2, it will return 13, because 13 is the first 2-digit number in the Fibbonacci sequence)
 def firstX_digit_Fib(n):
 
     if (n <=1): #just in case the number we enter is a 0 or 1 
