@@ -1,7 +1,7 @@
 #This function is designed to fund the the product of the coefficients in the expansion of (ax+by)n
 #Its three arguments are the corresponding terms in the binomial product 
 
-#Jackie Henson
+#Written by Jackie Henson
 
 import math
 

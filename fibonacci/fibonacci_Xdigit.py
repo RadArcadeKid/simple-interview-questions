@@ -1,5 +1,5 @@
 #First X digit Fibbonacci number program 
-#Jackie Henson
+#Written by Jackie Henson
 
 #firstX_digit_Fib - When given an input, this function will find the first integer in the fibonacci sequence that has X digits 
 #(e.g., if the function takes in 2, it will return 13, because 13 is the first 2-digit number in the Fibbonacci sequence)
