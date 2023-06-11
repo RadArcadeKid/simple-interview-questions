@@ -12,8 +12,3 @@ These projects are primarily in:
 
 
 *\*These are generic interview questions. Any and all questions/projects showcased here are not knowingly taken from any specific company or set of interview questions.*
-
-
-
-TODO: 
-- Palindrome 
