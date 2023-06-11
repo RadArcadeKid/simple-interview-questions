@@ -1,5 +1,5 @@
 /*
-  * WRITTEN BY JACKIE HENSON, 2020
+  * WRITTEN BY JACKIE HENSON, 2022
   * Written in C++
   *
   * fizzbuzz - a program that runs the classic game "fizbuzz"
